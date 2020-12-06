@@ -1,2 +1,4 @@
 # samplemobilewebsite
-A website which shows information related to mobile phone
+A website which shows information related to mobile phone  
+
+This website is made using HTML and CSS
