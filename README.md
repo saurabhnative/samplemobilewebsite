@@ -1,2 +1,2 @@
 # samplemobilewebsite
-A website related to information on a mobile phone
+A website which shows information related to mobile phone
